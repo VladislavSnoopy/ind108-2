@@ -1,0 +1,256 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url('./Group\ 590.png');
+    background-repeat: no-repeat;
+    background-position: 700px -200px;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.no-flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+a{
+    text-decoration: none;
+    color: #212832;
+}
+.menu{
+    margin-top: 40px;
+}
+
+.menu-center{
+    color: #212832;
+    margin-left: 222px;
+    font-size: 17px;
+}
+
+.menu-center a{
+    margin-left: 55px;
+}
+
+.menu-right{
+    margin-left: 86px;
+}
+
+.menu-right a{
+    margin-left: 52px;
+}
+
+.menu-right-btn a{
+    border: 1px solid #212832;
+    border-radius: 5px;
+    padding: 9px 21px;
+}
+
+.main-left h3{
+    color: #DF6951;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.main-left h1{
+    color: #181E4B;
+    font-size: 84px;
+    width: 545px;
+}
+
+.main-left a{
+    border: 5px solid orange;
+    border-radius: 12px;
+    padding: 9px 21px;
+    width: 170px 60px;
+    background-color: orange;
+}
+
+.main-left-inside img{
+    margin-top: 30px;
+}
+
+.offer{
+    margin-top: 80px;
+    text-align: center;
+}
+
+.offer-card p{
+    width: 250px;
+    margin: 30px;
+    color: #5E6282;
+    font-size: 16px;
+}
+
+.offer-card h3{
+    color: #1E1D4C;
+    font-size: 20px;
+    
+}
+.menu-right-btn a:hover{
+    background-color: #DF6951;
+}
+
+.offer-card:hover{
+    box-shadow: 2px 2px 2px 1px rgba(38, 31, 31, 0.283);
+    border-radius: 30px;
+    padding: 40px 0px;
+}
+
+.top_selling{
+    text-align: center;
+    margin-top: 123px;
+}
+
+
+.top_selling h3{
+    font-size: 18px;
+    color: #5E6282;
+}
+.top_selling h2{
+    font-size: 50px;
+    color: #14183E;
+    margin-top: -10px;
+}
+
+
+
+.top_selling_card_inside{
+    background-color: #ffffff;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.283);
+    border-radius: 0px 0px 30px 30px;
+    margin-top: -180px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.top_selling_card_inside:hover{
+    background-color: #feb5b5;
+    border-radius: 0px 0px 40px 40px;
+}
+
+
+.steps-left{
+    margin-right: 118px;
+}
+
+.steps-left h3{
+    color: #5E6282;
+    font-size: 18px;
+}
+
+.steps-left h2{
+    color: #14183E;
+    font-size: 50px;
+}
+.step-left{
+    margin-right: 21px;
+}
+
+.step-right h4{
+    color: #5E6282;
+    font-size: 16px;
+}
+
+.step-right p{
+    color: #5E6282;
+    font-size: 16px;
+}
+
+.about_us-left{
+    margin-bottom: 300px;
+}
+.about_us-left h3{
+    font-size: 18px;
+    color: #5E6282;
+    margin-bottom: -30px;
+    text-transform: uppercase;
+}
+
+.about_us-left h2{
+    font-size: 50px;
+    color: #14183E;
+}
+
+.airline_company-right img{
+    margin-left: 20px;
+}
+
+.subscibe{
+    background-image: url('./sdfsdf.png');
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: 300px 0px;
+
+    text-align: center;
+}
+
+.subscibe h3{
+    padding-top: 100px;
+    font-size: 33px;
+    color: #5E6282;
+    padding-left: 550px;
+    padding-right: 550px;
+    
+}
+
+.subscibe-inside input{
+    border: none;
+    margin-left: 10px;
+    background-color: #14183e00;
+}
+
+.subscibe-inside{
+    border: 1px solid #39425D;
+    padding: 10px 15px;
+    margin-right: 30px;
+}
+
+.subscibe a{
+    background-color: #FF7D68;
+    padding: 20px 30px;
+    border-radius: 10px;
+    color: white;
+}
+
+.footer div{
+    margin: 0px 50px;
+}
+
+.footer  h4{
+    color: #080809;
+    font-size: 21px;
+    width: bold;
+}
+
+.footer  a{
+    color: #5E6282;
+    font-size: 18px;
+    width: medium;
+}
+
+.foooter-one h3{
+    color: #181E4B;
+    font-size: 44px;
+    width: medium;
+}
+
+.foooter-one p{
+    color: #5E6282;
+    font-size: 13px;
+    width: medium;
+}
+
+
+
+.foooter-five h4{
+    color: #5E6282;
+    font-size: 20px;
+    width: medium;
+    margin-left: 80px;
+}
